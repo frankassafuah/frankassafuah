@@ -30,7 +30,7 @@ I enjoy learning about different cultures and technologies, and I often combine 
 - **Styling**: SCSS, Bootstrap, Vuetify, Tailwind
 - **Development Tools**: Git, Xcode, Android Studio, Figma
 - **Backend Technologies**: Django.
-- **Data Management**: MySQL.
+- **Database Management**: MySQL.
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/frank-assafuah)
