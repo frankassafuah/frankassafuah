@@ -9,7 +9,7 @@ I am an experienced and motivated Software Engineer with over 3 years of experti
 - **Plug Drive** at Sourcertz Technologies Ltd: Enhancing the EV charging experience with real-time station availability, reservation capabilities, route planning, integrated payments, user reviews, and maintenance alerts.
 
 ## 🤝 I’m looking to collaborate on
-- Open-source projects involving **React.js**, **Vue.js**, **React Native**, **Ionic Vue**, **Django** and other modern JavaScript frameworks.
+- Open-source projects involving **React.js**, **Vue.js**, **React Native**, **Ionic Vue** and other modern JavaScript frameworks.
 - Innovative mobile and web applications that can have a significant impact in tech industries.
 
 ## 📚 I’m currently learning
