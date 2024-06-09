@@ -13,10 +13,10 @@ I am an experienced and motivated Software Engineer with over 3 years of experti
 - Innovative mobile and web applications that can have a significant impact in tech industries.
 
 ## 📚 I’m currently learning
-- Advanced backend development with **Python**, **Django**, and **MySQL** through ALX Africa.
+- Advanced backend development with **Python**, **Django** and **MySQL** through ALX Africa.
 
 ## 💬 Ask me about
-- Building and deploying mobile applications using  **Ionic**, **Ionic Vue**, **React Native** **TypeScript**, **Xcode**, and **Android Studio**.
+- Building and deploying mobile applications using  **Ionic**, **Ionic Vue**, **React Native**, **TypeScript**, **Xcode** and **Android Studio**.
 - Developing web applications with **React.js**, **Vue.js**, **Redux**, **Pinia**, and **SCSS**.
 - My experience working remotely and collaborating with cross-functional teams to enhance user experience and system efficiency.
 
