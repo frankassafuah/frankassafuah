@@ -24,7 +24,7 @@ I am an experienced and motivated Software Engineer with over 3 years of experti
 I enjoy learning about different cultures and technologies, and I often combine these interests by developing applications that reflect my experiences and hobbies!
 
 ## 🔧 Programming Languages, Frameworks, and Tools
-- **Programming Languages**: JavaScript, TypeScript, Python
+- **Programming Languages**: JavaScript, TypeScript, Python, Shell
 - **Frontend Frameworks**: React.js, Vue.js, Nuxt.js, Ionic Vue
 - **State Management**: Redux, Pinia, Vuex, Redux Toolkit.
 - **Styling**: SCSS, Bootstrap, Vuetify, Tailwind
