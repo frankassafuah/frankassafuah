@@ -12,7 +12,7 @@ I am an experienced and motivated Software Engineer with over 3 years of experti
 - Innovative mobile and web applications that can have a significant impact in tech industries.
 
 ## 📚 I’m currently learning
-- Advanced backend development with **Python**, **Django** and **MySQL** through ALX Africa.
+- Advanced backend development with **Python**, **Django** and **MySQL**.
 
 ## 💬 Ask me about
 - Building and deploying mobile applications using  **Ionic**, **Ionic Vue**, **React Native**, **TypeScript**, **Xcode** and **Android Studio**.
