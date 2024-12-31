@@ -16,7 +16,7 @@ I am an experienced and motivated Software Engineer with over 3 years of experti
 
 ## 💬 Ask me about
 - Building and deploying mobile applications using  **Ionic**, **Ionic Vue**, **React Native**, **TypeScript**, **Xcode** and **Android Studio**.
-- Developing web applications with **React.js**, **Vue.js**, **Redux**, **Pinia**, and **SCSS**.
+- Developing web applications with **React.js**, **Vue.js**, **Django** **Redux**, **Pinia**, and **SCSS**.
 - My experience working remotely and collaborating with cross-functional teams to enhance user experience and system efficiency.
 
 ## 🌟 Fun fact
